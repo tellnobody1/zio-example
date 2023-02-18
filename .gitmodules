@@ -1,0 +1,3 @@
+[submodule "interop-cats"]
+	path = interop-cats
+	url = git@github.com:zio/interop-cats.git
